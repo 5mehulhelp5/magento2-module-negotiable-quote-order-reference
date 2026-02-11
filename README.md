@@ -4,8 +4,6 @@
 
 Adds an **Order reference** link to the Negotiable Quote view page, allowing quick navigation to the order created from the quote.
 
-> This module is built specifically for **Hyvä** frontends and assumes you already have a working Hyvä theme.
-
 ## Installation
 ```bash
 composer require aimanecouissi/module-negotiable-quote-order-reference
