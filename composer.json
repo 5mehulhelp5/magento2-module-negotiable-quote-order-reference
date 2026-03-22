@@ -4,7 +4,7 @@
     "description": "Add an Order Reference link to the Admin negotiable quote view page",
     "type": "magento2-module",
     "require": {
-        "php": "~8.3.0||~8.4.0",
+        "php": "^8.3",
         "magento/framework": "103.0.*",
         "magento/extension-b2b": "^1.5"
     },
